@@ -1,0 +1,6 @@
+{
+  "name": "ResQNow - Disaster Management System",
+  "description": "Full-stack disaster management system with live alerts, weather monitoring, cyclone & flood tracking, SOS emergency response, shelter & hospital locator, volunteer management, and admin dashboard.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
